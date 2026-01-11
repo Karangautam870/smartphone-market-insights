@@ -1,5 +1,7 @@
 # Smartphone Market Insights
 
+Exploratory data analysis on smartphones scraped from Smartprix, with insights on pricing and specifications.
+
 Analysis of scraped smartphone specifications to understand brand presence, pricing, and feature trends. Pipeline: scrape → clean → EDA → export visuals.
 
 ## Contents
