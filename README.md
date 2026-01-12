@@ -5,7 +5,8 @@ Exploratory data analysis on smartphones scraped from Smartprix, with insights o
 Analysis of scraped smartphone specifications to understand brand presence, pricing, and feature trends. Pipeline: scrape → clean → EDA → export visuals.
 
 ## Contents
-- Scraping: [workspace/advWebScrapping/scrappingSmartPrix.py](workspace/advWebScrapping/scrappingSmartPrix.py)
+- Scraping Script: [workspace/advWebScrapping/scrappingSmartPrix.py](workspace/advWebScrapping/scrappingSmartPrix.py)
+- Raw Scrapped Data : [smartprix_mobiles_with_specs.csv](smartprix_mobiles_with_specs.csv)
 - Cleaning notebook: [workspace/data-cleaning/clean.ipynb](workspace/data-cleaning/clean.ipynb)
 - EDA notebook: [workspace/EDA/eda-smart-phone.ipynb](workspace/EDA/eda-smart-phone.ipynb)
 - Sample cleaned dataset: [smartphone_cleaned_v2.csv](smartphone_cleaned_v2.csv)
